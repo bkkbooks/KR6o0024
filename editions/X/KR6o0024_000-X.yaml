@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0024/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明入正理論疏後記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0854.xml
+    old_id: X53n0854
+hash: sha256:573852bd62741bcd159258abdb8e8e1d2d4beae87b7f058e9223a3581fcee80e

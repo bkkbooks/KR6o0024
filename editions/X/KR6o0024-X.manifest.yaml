@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6o0024/X/v1
+canonical_location: https://kanripo.org/bkk/KR6o0024/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明入正理論疏後記
+  identifiers:
+    krp: KR6o0024
+    cbeta: X53n0854
+    cbeta_old_id: X53n0854
+    authorityid: CA0005368
+    json_key: X0854
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0854.xml
+    old_id: X53n0854
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0024_000-X.yaml, hash: 'sha256:573852bd62741bcd159258abdb8e8e1d2d4beae87b7f058e9223a3581fcee80e'}
+  - {seq: 1, filename: KR6o0024_001-X.yaml, hash: 'sha256:261384708fc2deba20947fa3bf16d64e6418c66f23faa15a243c09bed91ef5e7'}
+  - {seq: 2, filename: KR6o0024_002-X.yaml, hash: 'sha256:c697dd1d41b573b4dc5135ef72ee49a35e2c6f13c3b4a345fbfc71c063ca86fa'}
+  - {seq: 3, filename: KR6o0024_003-X.yaml, hash: 'sha256:7ac6604ab553cbe0b165625818b4a0fbc33ed229cd46db3279ec032c6c5dd62f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0024_000-X.markers.yaml, hash: 'sha256:82eedabfcb32a18bd8177ceecb1c720da39bf28d55be40422bf649d40c5e05b8'}
+  - {seq: 1, role: markers, filename: assets/KR6o0024_001-X.markers.yaml, hash: 'sha256:806171ecbddc8c2848869ec8602b1c0da31f70d55a816343f2783c44ca1a8ef3'}
+  - {seq: 2, role: markers, filename: assets/KR6o0024_002-X.markers.yaml, hash: 'sha256:2f43a70c2245847ba81904bd139e1a3b9643f06ab41f4f1996c1fa7853dd95d6'}
+  - {seq: 3, role: markers, filename: assets/KR6o0024_003-X.markers.yaml, hash: 'sha256:3929bbd87c99eaa72a9d953d6d775ea9a691b57cd44bfeea550b36175802ea09'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0024_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14904
+  label: 因明入正理論疏後記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0024_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15903
+  label: 因明入正理論疏後記卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0024_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 4140
+  label: 因明入正理論疏後記卷下
+  type: juan
+  level: 1
+hash: sha256:28abaeb1b1802de55275528a1011fcd23dd87073b3c3e6a1d28be8467d1c5ae8
