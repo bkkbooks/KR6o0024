@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0024_000.yaml, hash: 'sha256:573852bd62741bcd159258abdb8e8e1d2d4beae87b7f058e9223a3581fcee80e'}
-  - {seq: 1, filename: KR6o0024_001.yaml, hash: 'sha256:4cef99a07110ecead75829a662a3b7cd7ebf2137dd7e76d9a4ec6e93550f5b96'}
-  - {seq: 2, filename: KR6o0024_002.yaml, hash: 'sha256:fd9548c410dc06e7a0e1ceb8d39d586f5708cf4d6541c1b8464304765889d2b5'}
-  - {seq: 3, filename: KR6o0024_003.yaml, hash: 'sha256:738763950f84882058793b866bf48ad8c9f8b70867b344bf0df8fd5d254dfce4'}
+  - {seq: 1, filename: KR6o0024_001.yaml, hash: 'sha256:261384708fc2deba20947fa3bf16d64e6418c66f23faa15a243c09bed91ef5e7'}
+  - {seq: 2, filename: KR6o0024_002.yaml, hash: 'sha256:c697dd1d41b573b4dc5135ef72ee49a35e2c6f13c3b4a345fbfc71c063ca86fa'}
+  - {seq: 3, filename: KR6o0024_003.yaml, hash: 'sha256:7ac6604ab553cbe0b165625818b4a0fbc33ed229cd46db3279ec032c6c5dd62f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0024_001.markers.yaml, hash: 'sha256:645cbdfa6a90505bf37a5696be4b3fa567f710b2cb366153e1f0ad0841b584e8'}
-  - {seq: 2, role: markers, filename: assets/KR6o0024_002.markers.yaml, hash: 'sha256:a1b2b24d5ac2b95fe214f26dd380f87210ab9d6d94ab606da055807a6b55e7ee'}
-  - {seq: 3, role: markers, filename: assets/KR6o0024_003.markers.yaml, hash: 'sha256:1f2225e59ca8049776967787d1593ef2e4be7514f98379b427868a9f6b6227db'}
+  - {seq: 0, role: markers, filename: assets/KR6o0024_000.markers.yaml, hash: 'sha256:bea411685019190c1aedd841b4b8025c3d1c5131b04901265cd4ad9cc08cf1d1'}
+  - {seq: 1, role: markers, filename: assets/KR6o0024_001.markers.yaml, hash: 'sha256:b12624466e504a596b203b3ac5bc1672055f3a15bc139646111e0042fbc0efa4'}
+  - {seq: 2, role: markers, filename: assets/KR6o0024_002.markers.yaml, hash: 'sha256:10c5d2f9d7335e571fb182c0910e8516015ed066925ecba4d498a6c024833543'}
+  - {seq: 3, role: markers, filename: assets/KR6o0024_003.markers.yaml, hash: 'sha256:688ebea3dbe20044f82a4a5eb155fb52287bac5a27c3d8200d3b50b08bcb58ad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 因明入正理論疏後記卷下
   type: juan
   level: 1
-hash: sha256:0691f706cb5a5f3ec8fa1bc66dc98c4c68b5c8f57abfbdaafb6ae6de9974b6af
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b8fb1194a9d4f05d841dccc48131cbcf0f027b0e2ea78294f9824621c3a483af
