@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0024/v1
 canonical_location: https://kanripo.org/bkk/KR6o0024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 因明入正理論疏後記
   identifiers:
@@ -22,14 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0024_000.yaml, hash: 'sha256:573852bd62741bcd159258abdb8e8e1d2d4beae87b7f058e9223a3581fcee80e'}
-  - {seq: 1, filename: KR6o0024_001.yaml, hash: 'sha256:261384708fc2deba20947fa3bf16d64e6418c66f23faa15a243c09bed91ef5e7'}
-  - {seq: 2, filename: KR6o0024_002.yaml, hash: 'sha256:c697dd1d41b573b4dc5135ef72ee49a35e2c6f13c3b4a345fbfc71c063ca86fa'}
-  - {seq: 3, filename: KR6o0024_003.yaml, hash: 'sha256:7ac6604ab553cbe0b165625818b4a0fbc33ed229cd46db3279ec032c6c5dd62f'}
+  - {seq: 1, filename: KR6o0024_001.yaml, hash: 'sha256:83738e11ce8d0d2078f688aa7b65200d000611ecd7c19df583628aaf7d3a6ddb'}
+  - {seq: 2, filename: KR6o0024_002.yaml, hash: 'sha256:aa8061f393453647248d52abd7d0554f18e1d3c8d187c7ad07b26bb2a403c4ab'}
+  - {seq: 3, filename: KR6o0024_003.yaml, hash: 'sha256:5ba325dff8c998422b7965d32efc8875aa6d8ff95b74548a38af742f45ee5377'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0024_000.markers.yaml, hash: 'sha256:bea411685019190c1aedd841b4b8025c3d1c5131b04901265cd4ad9cc08cf1d1'}
-  - {seq: 1, role: markers, filename: assets/KR6o0024_001.markers.yaml, hash: 'sha256:b12624466e504a596b203b3ac5bc1672055f3a15bc139646111e0042fbc0efa4'}
-  - {seq: 2, role: markers, filename: assets/KR6o0024_002.markers.yaml, hash: 'sha256:10c5d2f9d7335e571fb182c0910e8516015ed066925ecba4d498a6c024833543'}
-  - {seq: 3, role: markers, filename: assets/KR6o0024_003.markers.yaml, hash: 'sha256:688ebea3dbe20044f82a4a5eb155fb52287bac5a27c3d8200d3b50b08bcb58ad'}
+  - {seq: 1, role: markers, filename: assets/KR6o0024_001.markers.yaml, hash: 'sha256:6df9d8ffbdc23a54f07e7b49653f72d8bf875da4aaac495eadd9140148b3d633'}
+  - {seq: 2, role: markers, filename: assets/KR6o0024_002.markers.yaml, hash: 'sha256:ea9a486e7b006ed22b5c98530bc625d23ab9728417b7685b182897feca6a99f6'}
+  - {seq: 3, role: markers, filename: assets/KR6o0024_003.markers.yaml, hash: 'sha256:b52c559de58c01e382d9e44db0b188d42c57121d14bcc4f33aeffcb3127b8440'}
 table_of_contents:
 - ref:
     seq: 1
@@ -61,4 +61,7 @@ table_of_contents:
   label: 因明入正理論疏後記卷下
   type: juan
   level: 1
-hash: sha256:b8fb1194a9d4f05d841dccc48131cbcf0f027b0e2ea78294f9824621c3a483af
+hash: sha256:492f1d4db11447e6ef5a3393a6bc91a050308c6ac5c31e27384e85fee091a625
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
